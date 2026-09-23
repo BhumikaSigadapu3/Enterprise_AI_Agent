@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Calculate 12 percent of 45000",
+    "expected_keywords": ["5400"],
+    "required_tools": ["calculator"]
+  },
+  {
+    "task": "What does the employee leave policy say about annual leave and carry forward?",
+    "expected_keywords": ["20 days", "5 days"],
+    "required_tools": ["document_search"]
+  },
+  {
+    "task": "According to the employee policy, how many annual leave days correspond to 3 months of a 20-day yearly allowance?",
+    "expected_keywords": ["5"],
+    "required_tools": ["document_search", "calculator"]
+  }
+]
