@@ -463,7 +463,7 @@ For a strong project demonstration:
 
 ## Author
 
-**Fariya Rafat**
+**Bhumika Sigadapu**
 
 - GitHub: https://github.com/BhumikaSigadapu3
 - Project Repository: https://github.com/BhumikaSigadapu3/Enterprise_AI_Agent
